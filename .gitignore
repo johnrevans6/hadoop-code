@@ -1,18 +1,1 @@
-*/target/
-*.jar
-*.war
-*.ear
-*.class
-
-# eclipse specific git ignore
-.recommenders/
-.project
 .metadata
-bin/
-tmp/
-*.tmp
-.bak
-.swp
-local.properties
-*.classpath
-.settings/
