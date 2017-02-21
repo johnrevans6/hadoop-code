@@ -1,3 +1,3 @@
-mapr@localhost
-.metadata/
-.recommenders/
+*mapr@localhost
+metadata/
+recommenders/
