@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/HadoopMapReduce/src/main/java/WordCountMR/HadoopMapReduce/WordCountDriver.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<mapAttribute key="org.eclipse.debug.core.environmentVariables">
+<mapEntry key="Hadoop_home" value="D:\hadoop-2.7.1"/>
+<mapEntry key="PATH" value="%PATH%;D:\hadoop-2.7.1\bin"/>
+</mapAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="WordCountMR.HadoopMapReduce.WordCountDriver"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="HadoopMapReduce"/>
+</launchConfiguration>
